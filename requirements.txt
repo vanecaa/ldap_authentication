@@ -1,0 +1,3 @@
+Django
+django-auth-ldap
+python-dotenv
